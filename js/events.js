@@ -1,6 +1,6 @@
 //define functions here
 function getIt() {
-  let whenClick=$("p").on("click",function(){
+$("p").on("click",function(){
     alert("Hey!")
   })
 }
